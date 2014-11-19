@@ -10,7 +10,7 @@ Welcome to NXP Data
 
 
 
-* **Trackers** fire Snowplow events. Currently we have 12 trackers, covering web, mobile, desktop, server and IoT
+* **Trackers** 
 
 
 
