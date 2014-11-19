@@ -40,8 +40,8 @@ Check out the **[Talk to us] [talk-to-us]** page on our wiki.
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 
-[techdocs]: https://github.com/NXPdata/NXPdata/wiki
-[setup]: https://github.com/NXPdata/NXPdata/wiki
-[roadmap]: https://github.com/NXPdata/NXPdata/wiki
+[techdocs]: https://github.com/NXPdata/NXPdata/wiki/techdocs
+[setup]: https://github.com/NXPdata/NXPdata/issues
+[roadmap]: https://github.com/NXPdata/NXPdata/wiki/roadmap
 [contributing]: https://github.com/NXPdata/NXPdata/wiki/Contributing
 
