@@ -41,7 +41,7 @@ Check out the **[Talk to us] [talk-to-us]** page on our wiki.
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 
 [techdocs]: https://github.com/NXPdata/NXPdata/wiki/techdocs
-[setup]: https://github.com/NXPdata/NXPdata/issues
+[setup]: https://github.com/NXPdata/NXPdata/wiki/
 [issues]: https://github.com/NXPdata/NXPdata/issues
 [contributing]: https://github.com/NXPdata/NXPdata/wiki/Contributing
 
