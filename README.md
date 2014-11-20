@@ -17,7 +17,7 @@ Welcome to NXP Data
 
 ## Find out more
 
-| **[Datamodel] [techdocs]**     | **[Public API] [setup]**     | **[Issues] [issues]**           | **[Requests] [contributing]**           |
+| **[Datamodel] [techdocs]**     | **[API] [setup]**     | **[Issues] [issues]**           | **[Requests] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
 | [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [issues] | [![i4] [contributing-image]] [contributing] |
 
