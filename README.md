@@ -17,7 +17,7 @@ Welcome to NXP Data
 
 ## Find out more
 
-| **[Datamodel] [techdocs]**     | **[API] [setup]**     | **[Issues] [issues]**           | **[Requests] [contributing]**           |
+| **[Datamodel] [datamodel]**     | **[API] [setup]**     | **[Issues] [issues]**           | **[Requests] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
 | [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [issues] | [![i4] [contributing-image]] [contributing] |
 
@@ -40,7 +40,7 @@ Check out the **[Talk to us] [talk-to-us]** page on our wiki.
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
 
-[techdocs]: https://github.com/NXPdata/NXPdata/wiki/techdocs
+[datamodel]: https://github.com/NXPdata/NXPdata/wiki/2-Datamodel
 [setup]: https://github.com/NXPdata/NXPdata/wiki/1-Introduction-to-product-data-feed
 [issues]: https://github.com/NXPdata/NXPdata/issues
 [contributing]: https://github.com/NXPdata/NXPdata/wiki/Contributing
