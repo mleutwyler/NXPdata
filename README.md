@@ -19,7 +19,7 @@ Welcome to NXP Data
 
 | **[Datamodel] [datamodel]**     | **[API] [setup]**     | **[Issues] [issues]**           | **[Requests] [contributing]**           |
 |-------------------------------------|-------------------------------|-----------------------------------|---------------------------------------------|
-| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [issues] | [![i4] [contributing-image]] [contributing] |
+| [![i1] [datamodel-image]] [datamodel] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [issues] | [![i4] [contributing-image]] [contributing] |
 
 ## Contributing
 
@@ -35,7 +35,7 @@ Check out the **[Talk to us] [talk-to-us]** page on our wiki.
 [website]: http://data.nxp.com
 [wiki]: https://github.com/NXPdata/NXPdata/wiki
 
-[techdocs-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/techdocs.png
+[datamodel-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/techdocs.png
 [setup-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/setup.png
 [roadmap-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/roadmap.png
 [contributing-image]: https://d3i6fms1cm1j0i.cloudfront.net/github/images/contributing.png
